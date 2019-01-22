@@ -8,7 +8,7 @@ namespace CLight
 {
     class Task2
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             //Подумать и пометить какие значения будут в следующих переменных: 
 

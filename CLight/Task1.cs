@@ -8,7 +8,7 @@ namespace CLight
 {
     class Task1
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             /*
              * Объявить 10 переменных разных типов.  Опробовать различные наименования, используя цифры и подчеркивания.  

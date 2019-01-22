@@ -8,7 +8,7 @@ namespace CLight
 {
     class Task3
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             /*
              * 3. Что выведется в консоль?  ВАЖНО!!! Не запускать код и попытаться подумать головой 
@@ -17,7 +17,7 @@ namespace CLight
             int b = 38 * 17;
             int c = (31 - 5 * a) / b;
             Console.writeline(c);
-            //Ошибка - у Console нет такого метода как writeline, а Writeline выведет 0.
+            //Ошибка - у Console нет такого метода как writeline, а WriteLine выведет 0.
         }
     }
 }
