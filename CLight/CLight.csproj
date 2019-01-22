@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Task4.cs" />
+    <Compile Include="Task5.cs" />
+    <None Include="Task4.cs" />
     <None Include="Task3.cs" />
     <None Include="Task2.cs" />
     <None Include="Task1.cs" />
