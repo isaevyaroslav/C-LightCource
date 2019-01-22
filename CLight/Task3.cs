@@ -17,7 +17,7 @@ namespace CLight
             int b = 38 * 17;
             int c = (31 - 5 * a) / b;
             Console.writeline(c);
-            //Ошибка - у Console нет такого метода как writeline 
+            //Ошибка - у Console нет такого метода как writeline, а Writeline выведет 0.
         }
     }
 }
