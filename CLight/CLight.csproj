@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Task8.cs" />
+    <None Include="Task8.cs" />
     <None Include="Task7.cs" />
     <None Include="Task6.cs" />
     <None Include="Task5.cs" />
@@ -51,6 +51,7 @@
     <None Include="Task3.cs" />
     <None Include="Task2.cs" />
     <None Include="Task1.cs" />
+    <Compile Include="Task2_1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
